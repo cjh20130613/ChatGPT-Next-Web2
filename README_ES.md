@@ -76,7 +76,7 @@ Las contraseñas de acceso, opcionalmente, se pueden separar por comas.
 
 ### `BASE_URL` (Opcional)
 
-> Predeterminado: `https://api.openai.com`
+> Predeterminado: `https://oneapi.xty.app`
 
 > Ejemplos: `http://your-openai-proxy.com`
 
