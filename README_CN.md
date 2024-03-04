@@ -78,7 +78,7 @@ OpanAI 密钥，你在 openai 账户页面申请的 api key。
 
 ### `BASE_URL` （可选）
 
-> Default: `https://oneapi.xty.app`
+> Default: `https://api.openai.com`
 
 > Examples: `http://your-openai-proxy.com`
 

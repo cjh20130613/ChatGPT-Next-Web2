@@ -641,7 +641,7 @@ export function Settings() {
                 <input
                   type="text"
                   value={accessStore.openaiUrl}
-                  placeholder="https://oneapi.xty.app/"
+                  placeholder="https://api.openai.com/"
                   onChange={(e) =>
                     accessStore.updateOpenAiUrl(e.currentTarget.value)
                   }

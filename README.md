@@ -163,7 +163,7 @@ Access passsword, separated by comma.
 
 ### `BASE_URL` (optional)
 
-> Default: `https://oneapi.xty.app`
+> Default: `https://api.openai.com`
 
 > Examples: `http://your-openai-proxy.com`
 
